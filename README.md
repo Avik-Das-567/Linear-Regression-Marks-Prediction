@@ -14,8 +14,9 @@
 - It is **easy** and **quick** to use.
 ---
 ### Required Python Packages
-- **scikit-learn** – To build machine learning models
-- **streamlit** – To build data apps
+- **`scikit-learn`** – To build machine learning models
+- **`streamlit`** – To build data apps
+- **`pandas`** – To work with the dataset
 ---
 ### Example Problem
 - We have data about **Hours Studied** and **Marks Scored**.
