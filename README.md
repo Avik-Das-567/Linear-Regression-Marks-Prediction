@@ -14,12 +14,21 @@
 - It is **easy** and **quick** to use.
 ---
 ### Required Python Packages
-- **`scikit-learn`** – To build machine learning models
-- **`streamlit`** – To build data apps
-- **`pandas`** – To work with the dataset
+- **`scikit-learn`** - To build machine learning models
+- **`streamlit`** - To build data apps
+- **`pandas`** - To work with the dataset
 ---
 ### Example Problem
 - We have data about **Hours Studied** and **Marks Scored**.
+
+| Hours\_Studied | Marks\_Scored |
+| -------------- | ------------- |
+| 2              | 50            |
+| 3              | 60            |
+| 4              | 70            |
+| 5              | 80            |
+| 6              | 90            |
+
 ---
 ### How It Works
 - **Load the data** using **`pd.read_csv()`**.
